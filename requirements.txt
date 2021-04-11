@@ -1,0 +1,13 @@
+torch
+numpy
+os
+glob
+urllib3
+collections
+pickle
+Flask
+MarkupSafe
+Jinja2
+werkzeug
+itsdangerous
+gunicorn
