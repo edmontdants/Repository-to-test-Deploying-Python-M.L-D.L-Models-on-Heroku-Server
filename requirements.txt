@@ -1,5 +1,4 @@
-glob
-Numpy
+numpy
 urllib3
 collections
 pickle
