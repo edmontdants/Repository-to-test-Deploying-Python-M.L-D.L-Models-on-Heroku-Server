@@ -33,7 +33,7 @@ scipy==1.6.2
 six==1.15.0
 tensorboard==2.3.0
 tensorboard-plugin-wit==1.7.0
-tifffile==2020.7.24
+tifffile==2021.3.31
 torch==1.6.0
 torchvision==0.7.0
 tqdm==4.48.2
