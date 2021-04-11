@@ -1,13 +1,13 @@
 torch
-numpy
 os
 glob
+Numpy
 urllib3
 collections
 pickle
 Flask
 MarkupSafe
 Jinja2
-werkzeug
+Werkzeug
 itsdangerous
 gunicorn
