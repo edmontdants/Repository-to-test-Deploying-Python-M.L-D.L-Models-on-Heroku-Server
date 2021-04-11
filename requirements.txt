@@ -1,4 +1,3 @@
-torch
 os
 glob
 Numpy
