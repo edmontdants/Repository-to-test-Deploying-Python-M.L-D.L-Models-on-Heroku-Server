@@ -33,7 +33,7 @@ scikit-learn
 scipy
 six
 tensorboard
-tensorboard-plugin-wit==1.6.0
+tensorboard-plugin-wit==1.7.0
 tifffile
 urllib3
 Werkzeug
